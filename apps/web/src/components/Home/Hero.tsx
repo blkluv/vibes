@@ -8,11 +8,11 @@ const Hero: FC = () => {
       <div className="px-5 mx-auto max-w-screen-xl flex items-stretch py-8 w-full text-center sm:py-12 sm:text-left">
         <div className="flex-1 space-y-3">
           <div className="text-2xl font-extrabold sm:text-4xl font-serif">
-            <Trans>Welcome to {APP_NAME} 👋</Trans>
+            <Trans>Welcome to {APP_NAME} ✨</Trans>
           </div>
           <div className="leading-7 text-gray-700 dark:text-gray-300">
             <Trans>
-              {APP_NAME} is a decentralized, and permissionless social media app built with Lens Protocol 🌿
+              {APP_NAME} is a decentralized, and permissionless social media app powered by positive vibes 💜
             </Trans>
           </div>
         </div>

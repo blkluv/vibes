@@ -333,11 +333,11 @@ msgid "Highlights"
 msgstr ""
 
 #: src/components/Home/Hero.tsx
-msgid "Welcome to {APP_NAME} 👋"
+msgid "Welcome to {APP_NAME} ✨"
 msgstr ""
 
 #: src/components/Home/Hero.tsx
-msgid "{APP_NAME} is a decentralized, and permissionless social media app built with Lens Protocol 🌿"
+msgid "{APP_NAME} is a decentralized, and permissionless social media app powered by positive vibes 💜"
 msgstr ""
 
 #: src/components/Home/Highlights.tsx
