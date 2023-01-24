@@ -70,7 +70,7 @@ export const EVER_API = 'https://endpoint.4everland.co';
 export const SIMPLEANALYTICS_API = 'https://simpleanalytics.com/lenster.xyz.json';
 
 // Web3
-export const ALCHEMY_KEY = 'HHfOFn8jsYguteTVvL0cz4g9aydrbjTV';
+export const ALCHEMY_KEY = '30e_ohjnJYgY06eQuK6GaXxY8fKXAPF8';
 
 // Errors
 export const ERRORS = {
